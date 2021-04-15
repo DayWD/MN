@@ -1,0 +1,3 @@
+C:/Users/Dawid/CLionProjects/MN/B - Root Finder/cmake-build-debug/CMakeFiles/B___Root_Finder.dir
+C:/Users/Dawid/CLionProjects/MN/B - Root Finder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/MN/B - Root Finder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
