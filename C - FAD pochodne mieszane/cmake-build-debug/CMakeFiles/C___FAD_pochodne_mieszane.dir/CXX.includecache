@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dawid/CLionProjects/MN/C - FAD pochodne mieszane/funkcja.h
+
+C:/Users/Dawid/CLionProjects/MN/C - FAD pochodne mieszane/main.cpp
+iostream
+-
+cmath
+-
+funkcja.h
+C:/Users/Dawid/CLionProjects/MN/C - FAD pochodne mieszane/funkcja.h
+

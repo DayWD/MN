@@ -1,0 +1,3 @@
+C:/Users/Dawid/CLionProjects/MN/C - FAD pochodne mieszane/cmake-build-debug/CMakeFiles/C___FAD_pochodne_mieszane.dir
+C:/Users/Dawid/CLionProjects/MN/C - FAD pochodne mieszane/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/MN/C - FAD pochodne mieszane/cmake-build-debug/CMakeFiles/rebuild_cache.dir
