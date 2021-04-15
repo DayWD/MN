@@ -1,0 +1,3 @@
+C:/Users/Dawid/CLionProjects/MN/A - Double Trouble/cmake-build-debug/CMakeFiles/A___Double_Trouble.dir
+C:/Users/Dawid/CLionProjects/MN/A - Double Trouble/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/MN/A - Double Trouble/cmake-build-debug/CMakeFiles/rebuild_cache.dir
