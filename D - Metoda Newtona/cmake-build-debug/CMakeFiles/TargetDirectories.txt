@@ -1,0 +1,3 @@
+C:/Users/Dawid/CLionProjects/MN/D - Metoda Newtona/cmake-build-debug/CMakeFiles/D___Metoda_Newtona.dir
+C:/Users/Dawid/CLionProjects/MN/D - Metoda Newtona/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/MN/D - Metoda Newtona/cmake-build-debug/CMakeFiles/rebuild_cache.dir
