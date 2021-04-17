@@ -15,4 +15,10 @@ source.cpp
 C:/Users/Dawid/CLionProjects/MN/D - Metoda Newtona/source.cpp
 
 C:/Users/Dawid/CLionProjects/MN/D - Metoda Newtona/source.cpp
+iostream
+-
+cstdio
+-
+cmath
+-
 
