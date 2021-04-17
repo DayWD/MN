@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dawid/CLionProjects/MN/E - Skalowany Gauss/main.cpp
+iostream
+-
+vectalg.h
+C:/Users/Dawid/CLionProjects/MN/E - Skalowany Gauss/vectalg.h
+source.cpp
+C:/Users/Dawid/CLionProjects/MN/E - Skalowany Gauss/source.cpp
+
+C:/Users/Dawid/CLionProjects/MN/E - Skalowany Gauss/source.cpp
+
+C:/Users/Dawid/CLionProjects/MN/E - Skalowany Gauss/vectalg.h
+memory
+-
+iostream
+-
+cassert
+-
+vector
+-
+cmath
+-
+
