@@ -7,10 +7,6 @@
 #IncludeRegexTransform: 
 
 C:/Users/Dawid/CLionProjects/MN/D - Metoda Newtona/main.cpp
-iostream
--
-cmath
--
 source.cpp
 C:/Users/Dawid/CLionProjects/MN/D - Metoda Newtona/source.cpp
 

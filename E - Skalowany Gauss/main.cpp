@@ -16,11 +16,11 @@ int main(){
     Vector x = solveEquations(a, b, eps);
 
     auto residual = residual_vector(a, b, x);
-    cout << "rozwiazanie = " << x << endl;
+ /*   cout << "rozwiazanie = " << x << endl;
     cout << "rezydualny = " << residual << endl;
     cout << "blad = " << residual.max_norm()
          << " limit = " << eps << endl ;
-    cout << "Test " << (residual.max_norm() < eps ? "":"nie ") << "zaliczony" << endl;
+    cout << "Test " << (residual.max_norm() < eps ? "":"nie ") << "zaliczony" << endl;*/
     return 0;
 }
 
