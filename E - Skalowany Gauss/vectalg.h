@@ -6,7 +6,7 @@
 #define GAUSS_VECTALG_H
 
 // Jeżeli odkomentujemy poniższą linię to indeksy (asercje) nie będą sprawdzane
-// #define  NDEBUG
+//#define  NDEBUG
 
 #include <memory>
 #include <iostream>
