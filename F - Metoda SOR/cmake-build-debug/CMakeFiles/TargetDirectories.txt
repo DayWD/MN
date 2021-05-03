@@ -1,0 +1,3 @@
+C:/Users/Dawid/CLionProjects/MN/F - Metoda SOR/cmake-build-debug/CMakeFiles/F___Metoda_SOR.dir
+C:/Users/Dawid/CLionProjects/MN/F - Metoda SOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/MN/F - Metoda SOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
