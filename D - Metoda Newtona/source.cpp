@@ -107,3 +107,4 @@ int findFixedPoints(FuncPointer f, double *x, unsigned k1, unsigned k2, double h
     }
     return 0;
 }
+
