@@ -57,27 +57,27 @@ int main()
 
     //  Hermite Interpolation
 
-    for(int i=1;i<m;i++)
-    {
-        if(x[i] == x[i-1])
-            d[i]=y[last_significant_x];
-        else
+        for(int i=1;i<m;i++)
         {
-            last_significant_x=i;
-            d[i]=y[i];
-        }
-    }
-
-    for(int j=1;j<m;j++)
-    {
-        for(int i=m-1;i>=j;i--)
-        {
-            if(x[i]!=x[i-j])
-                d[i]= (d[i]-d[i-1])/(x[i]-x[i-j]);
+            if(x[i] == x[i-1])
+                d[i]=y[last_significant_x];
             else
-                d[i]=y[find_derivative(x,j,i)]/fact(j);
+            {
+                last_significant_x=i;
+                d[i]=y[i];
+            }
         }
-    }
+
+        for(int j=1;j<m;j++)
+        {
+            for(int i=m-1;i>=j;i--)
+            {
+                if(x[i]!=x[i-j])
+                    d[i]= (d[i]-d[i-1])/(x[i]-x[i-j]);
+                else
+                    d[i]=y[find_derivative(x,j,i)]/fact(j);
+            }
+        }
     //  End of Hermite Interpolation
 
     for(int i=0;i<m;i++)
